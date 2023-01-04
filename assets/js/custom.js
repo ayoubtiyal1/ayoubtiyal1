@@ -28,7 +28,7 @@
     
     // Preloader 
     jQuery(window).on('load',function(){
-        $(".preloader").delay(1600).fadeOut("slow");
+        $(".preloader").delay(800).fadeOut("slow");
     });
     
     //Active menu
